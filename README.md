@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming and maths
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me devyogesh23@gmail.com
-- 
 
 <!---
 Yogesh-Dev23/Yogesh-Dev23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
